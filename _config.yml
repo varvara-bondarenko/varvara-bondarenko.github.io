@@ -25,23 +25,23 @@ author:
   # Biographic information
   avatar           : "2026.07.07_StanfordSummerSession_Headshots_Thien-AnTruong-32.jpg"
   name             : "Varvara Bondarenko"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  pronouns         : "she / her"
+  bio              : "..."
+  location         : "San Francisco Bay Area"
+  employer         : # employer name in ""
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "varvarabondarenko14@gmail.com" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=5f8R-awAAAAJ&hl=en"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : # URL
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # URL
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
