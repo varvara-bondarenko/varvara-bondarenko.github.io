@@ -1,7 +1,7 @@
 ---
 title: "Improving the Performance of Proof-of-Space in Blockchain Systems"
 collection: posters
-category: conferences
+category: conference-posters
 permalink: /publication/2024-improving-the-perf
 excerpt: 
 # excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
